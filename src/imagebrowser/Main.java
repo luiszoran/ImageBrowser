@@ -21,7 +21,7 @@ public class Main {
         new Main().execute();
     }
 
-    private static final String filename = "C:\\Users\\Angeles\\Desktop\\Fotos";
+    private static final String filename = "C:\\Fotos";
     private ApplicationFrame frame;
     private Map<String, Command> commandMap;
    
